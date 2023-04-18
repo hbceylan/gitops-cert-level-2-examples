@@ -32,4 +32,4 @@ spec:
   - group: apps
     kind: Deployment
     jsonPointers:
-    - /annotation/creation
+    - /annotations/creation
