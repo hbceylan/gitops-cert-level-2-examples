@@ -27,6 +27,7 @@ spec:
       kind: Secret
       jsonPointers:
        - /data
+       = /stringData
 
   ignoreDifferences:
   - group: apps
